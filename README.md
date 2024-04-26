@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VictorSousaFecaf
+- 👀 I’m interested in Problem Solving
+- 🌱 I’m currently learning NodeJS, NextJS, Deno and Bun
+- 💞️ I’m looking to collaborate on Web Systems and CMS
+- 😄 Pronouns: He/Him
